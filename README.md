@@ -159,7 +159,7 @@ Description: Basic S3 Bucket CloudFormation template
 ```
 
 
-# ask 1.1 : Create an AWS Cloudformationstack
+# Task 1.1 : Create an AWS Cloudformationstack
 
 
 Use AWS Cloud Formation to create a stack of AWS resources
