@@ -42,7 +42,7 @@ You can easily customize the network configuration for your virtualprivate cloud
 
 
 
-# Task 1 : Deploy a S
+# Task 1: Deploy a Stack using AWSCloudformation
 
 In this task , you deploy a pre-defined Cloud Formation template to buildan Amazon VPC
 
